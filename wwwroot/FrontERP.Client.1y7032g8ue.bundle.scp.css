@@ -1,0 +1,16 @@
+/* /Pages/TablaProductos.razor.rz.scp.css */
+@keyframes modal-open-b-n2q16odnmu {
+    0% {
+        opacity: 0;
+        transform: translateY(2rem) scale(0.95);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.animate-modal-open[b-n2q16odnmu] {
+    animation: modal-open-b-n2q16odnmu 0.3s ease-out forwards;
+}
