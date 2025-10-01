@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FrontERP.Client",
   "resources": {
-    "hash": "sha256-LXSdgTaTANr6w9MMbejeg3fohFzvy9x4dLag5s02vaA=",
+    "hash": "sha256-uyAuwYApv42Qx0iaVaU1K/UMv6jbgan/qapoStDi4kg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -18,11 +18,11 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "FrontERP.Client.wasm": "sha256-he6YEpEaiEfrMPZf8Tk2YgnVxX+oE5aebQ57XXL+4+k=",
+      "FrontERP.Client.wasm": "sha256-8BHC4w4MhhV6CrZixSm7/ayNpdxypWBkJ/K2OrizTiI=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-RLHfYKdZPtXaIw9sS4anvP+wZ0CbzzExXq8uPSanFqM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-rZNs4F5r6sYeITpL5ekyG4Gv/XFAfxw2QmvLfBCwy3M=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-c989aKUimlTOjZxIiBMgAgixiSI82wPENMmNCa4F2FI=",
-      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-V8BiAd/u+7WkS6bKt9Zi8bVTHg2c043qqJNneFiiSWY=",
+      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-UOjrm7bP8nA+qtzMs7igmyPKUm7VJZ1FhQl2kYFaa2s=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Nbv4DDWJLbUri+9QrX+3vnA2FV/Qux8Jm1buTARMlBs=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
